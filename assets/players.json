@@ -1,0 +1,72 @@
+[
+  {
+    "avatar": "https://cdn.discordapp.com/avatars/794998947844325396/ba730e0ed2396e10e11fcb24ea86e714.png?size=4096",
+    "name": "Golem",
+    "games": 4,
+    "losses": 1,
+    "wins": 3,
+    "warnings": 1,
+    "points": 251,
+    "status": ""
+  },
+  {
+    "avatar": "https://cdn.discordapp.com/avatars/286586564513890305/7859bc2439e2955e3fd8c30ec3ba45c1.png?size=4096",
+    "name": "Mjolnirk",
+    "games": 30,
+    "losses": 4,
+    "wins": 21,
+    "warnings": 7,
+    "points": 200,
+    "status": ""
+  },
+  {
+    "avatar": "https://cdn.discordapp.com/avatars/314139576123916288/d84ad9d701d052a639366c0136f2c470.png?size=4096",
+    "name": "Klastex",
+    "games": 6,
+    "losses": 3,
+    "wins": 3,
+    "warnings": 2,
+    "points": 74,
+    "status": ""
+  },
+  {
+    "avatar": "https://cdn.discordapp.com/avatars/688362404026908701/23bbffad9b993fb59c28053698f14df4.png?size=4096",
+    "name": "Klastex",
+    "games": 6,
+    "losses": 4,
+    "wins": 2,
+    "warnings": 1,
+    "points": 54,
+    "status": ""
+  },
+  {
+    "avatar": "https://cdn.discordapp.com/avatars/303934662135250945/b09ffdd8a2d7a19acfac9b16fbddf5d4.png?size=4096",
+    "name": "Mario",
+    "games": 10,
+    "losses": 2,
+    "wins": 8,
+    "warnings": 1,
+    "points": 105,
+    "status": ""
+  },
+  {
+    "avatar": "https://cdn.discordapp.com/avatars/369220032367951872/d1cc251103850b37fc33e7608defb8bf.png?size=4096://cdn.discordapp.com/avatars/286586564513890305/7859bc2439e2955e3fd8c30ec3ba45c1.png?size=4096",
+    "name": "Kim",
+    "games": 6,
+    "losses": 4,
+    "wins": 2,
+    "warnings": 1,
+    "points": -6,
+    "status": ""
+  },
+  {
+    "avatar": "https://cdn.discordapp.com/avatars/469520810542104587/6ebae09e9afe1481ef3df5f4070c251a.png?size=4096",
+    "name": "Joan",
+    "games": 4,
+    "losses": 2,
+    "wins": 2,
+    "warnings": 3,
+    "points": -6,
+    "status": ""
+  }
+]
