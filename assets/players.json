@@ -1,65 +1,182 @@
 [
   {
-    "avatar": "https://cdn.discordapp.com/avatars/794998947844325396/ba730e0ed2396e10e11fcb24ea86e714.png?size=4096",
-    "name": "Golem",
-    "games": 4,
-    "losses": 1,
-    "wins": 3,
-    "warnings": 1,
-    "points": 251
-  },
-  {
-    "avatar": "https://cdn.discordapp.com/avatars/286586564513890305/7859bc2439e2955e3fd8c30ec3ba45c1.png?size=4096",
-    "name": "Mjolnirk",
-    "games": 30,
-    "losses": 4,
-    "wins": 21,
-    "warnings": 7,
-    "points": 200
-  },
-  {
-    "avatar": "https://cdn.discordapp.com/avatars/314139576123916288/d84ad9d701d052a639366c0136f2c470.png?size=4096",
-    "name": "Klastex",
-    "games": 6,
-    "losses": 3,
-    "wins": 3,
-    "warnings": 2,
-    "points": 74
-  },
-  {
-    "avatar": "https://cdn.discordapp.com/avatars/688362404026908701/23bbffad9b993fb59c28053698f14df4.png?size=4096",
-    "name": "Klastex",
-    "games": 6,
-    "losses": 4,
-    "wins": 2,
-    "warnings": 1,
-    "points": 54
-  },
-  {
     "avatar": "https://cdn.discordapp.com/avatars/303934662135250945/b09ffdd8a2d7a19acfac9b16fbddf5d4.png?size=4096",
     "name": "Mario",
-    "games": 10,
-    "losses": 2,
-    "wins": 8,
-    "warnings": 1,
-    "points": 105
+    "games": 29,
+    "losses": 10,
+    "wins": 19,
+    "warnings": 0,
+    "points": 110,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
+    "name": "McShy",
+    "games": 24,
+    "losses": 8,
+    "wins": 16,
+    "warnings": 0,
+    "points": 96,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
+    "name": "Basheny",
+    "games": 25,
+    "losses": 11,
+    "wins": 14,
+    "warnings": 0,
+    "points": 52,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
   },
   {
     "avatar": "https://cdn.discordapp.com/avatars/369220032367951872/d1cc251103850b37fc33e7608defb8bf.png?size=4096://cdn.discordapp.com/avatars/286586564513890305/7859bc2439e2955e3fd8c30ec3ba45c1.png?size=4096",
     "name": "Kim",
-    "games": 6,
-    "losses": 4,
-    "wins": 2,
-    "warnings": 1,
-    "points": -6
+    "games": 23,
+    "losses": 10,
+    "wins": 13,
+    "warnings": 0,
+    "points": 50,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
+    "name": "Nnaiko",
+    "games": 13,
+    "losses": 5,
+    "wins": 8,
+    "warnings": 0,
+    "points": 40,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
+    "name": "Pablo",
+    "games": 25,
+    "losses": 12,
+    "wins": 13,
+    "warnings": 0,
+    "points": 34,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
+    "name": "Joserra",
+    "games": 18,
+    "losses": 9,
+    "wins": 9,
+    "warnings": 0,
+    "points": 18,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
+    "name": "Simon",
+    "games": 5,
+    "losses": 2,
+    "wins": 3,
+    "warnings": 0,
+    "points": 14,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
+    "name": "Paco",
+    "games": 10,
+    "losses": 5,
+    "wins": 5,
+    "warnings": 0,
+    "points": 10,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://cdn.discordapp.com/avatars/794998947844325396/ba730e0ed2396e10e11fcb24ea86e714.png?size=4096",
+    "name": "Golem",
+    "games": 21,
+    "losses": 14,
+    "wins": 7,
+    "warnings": 0,
+    "points": -42,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://cdn.discordapp.com/avatars/286586564513890305/7859bc2439e2955e3fd8c30ec3ba45c1.png?size=4096",
+    "name": "Mjolnirk",
+    "games": 25,
+    "losses": 16,
+    "wins": 9,
+    "warnings": 0,
+    "points": -38,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://cdn.discordapp.com/avatars/314139576123916288/d84ad9d701d052a639366c0136f2c470.png?size=4096",
+    "name": "Klastex",
+    "games": 29,
+    "losses": 13,
+    "wins": 16,
+    "warnings": 0,
+    "points": 56,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://cdn.discordapp.com/avatars/688362404026908701/23bbffad9b993fb59c28053698f14df4.png?size=4096",
+    "name": "Sori",
+    "games": 22,
+    "losses": 10,
+    "wins": 12,
+    "warnings": 0,
+    "points": 40,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
+    "name": "SrFran",
+    "games": 3,
+    "losses": 2,
+    "wins": 1,
+    "warnings": 0,
+    "points": -6,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
+    "name": "Toelf",
+    "games": 13,
+    "losses": 8,
+    "wins": 5,
+    "warnings": 0,
+    "points": -14,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
   },
   {
     "avatar": "https://cdn.discordapp.com/avatars/469520810542104587/6ebae09e9afe1481ef3df5f4070c251a.png?size=4096",
     "name": "Joan",
-    "games": 4,
-    "losses": 2,
+    "games": 30,
+    "losses": 18,
+    "wins": 12,
+    "warnings": 0,
+    "points": -24,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
+    "name": "Hajime",
+    "games": 8,
+    "losses": 6,
     "wins": 2,
-    "warnings": 3,
-    "points": -6
+    "warnings": 0,
+    "points": -28,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
+  },
+  {
+    "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
+    "name": "Iker",
+    "games": 7,
+    "losses": 6,
+    "wins": 1,
+    "warnings": 0,
+    "points": -38,
+    "status": { "wins": 0, "losses": 0, "warnings": 0 }
   }
 ]
