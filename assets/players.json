@@ -2,6 +2,7 @@
   {
     "avatar": "https://cdn.discordapp.com/avatars/303934662135250945/b09ffdd8a2d7a19acfac9b16fbddf5d4.png?size=4096",
     "name": "Mario",
+    "id": 1,
     "games": 29,
     "losses": 10,
     "wins": 19,
@@ -12,6 +13,7 @@
   {
     "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
     "name": "McShy",
+    "id": 2,
     "games": 24,
     "losses": 8,
     "wins": 16,
@@ -22,6 +24,7 @@
   {
     "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
     "name": "Basheny",
+    "id": 3,
     "games": 25,
     "losses": 11,
     "wins": 14,
@@ -32,6 +35,7 @@
   {
     "avatar": "https://cdn.discordapp.com/avatars/369220032367951872/d1cc251103850b37fc33e7608defb8bf.png?size=4096://cdn.discordapp.com/avatars/286586564513890305/7859bc2439e2955e3fd8c30ec3ba45c1.png?size=4096",
     "name": "Kim",
+    "id": 4,
     "games": 23,
     "losses": 10,
     "wins": 13,
@@ -42,6 +46,7 @@
   {
     "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
     "name": "Nnaiko",
+    "id": 5,
     "games": 13,
     "losses": 5,
     "wins": 8,
@@ -52,6 +57,7 @@
   {
     "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
     "name": "Pablo",
+    "id": 6,
     "games": 25,
     "losses": 12,
     "wins": 13,
@@ -62,6 +68,7 @@
   {
     "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
     "name": "Joserra",
+    "id": 7,
     "games": 18,
     "losses": 9,
     "wins": 9,
@@ -72,6 +79,7 @@
   {
     "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
     "name": "Simon",
+    "id": 8,
     "games": 5,
     "losses": 2,
     "wins": 3,
@@ -82,6 +90,7 @@
   {
     "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
     "name": "Paco",
+    "id": 9,
     "games": 10,
     "losses": 5,
     "wins": 5,
@@ -92,6 +101,7 @@
   {
     "avatar": "https://cdn.discordapp.com/avatars/794998947844325396/ba730e0ed2396e10e11fcb24ea86e714.png?size=4096",
     "name": "Golem",
+    "id": 10,
     "games": 21,
     "losses": 14,
     "wins": 7,
@@ -102,6 +112,7 @@
   {
     "avatar": "https://cdn.discordapp.com/avatars/286586564513890305/7859bc2439e2955e3fd8c30ec3ba45c1.png?size=4096",
     "name": "Mjolnirk",
+    "id": 11,
     "games": 25,
     "losses": 16,
     "wins": 9,
@@ -112,6 +123,7 @@
   {
     "avatar": "https://cdn.discordapp.com/avatars/314139576123916288/d84ad9d701d052a639366c0136f2c470.png?size=4096",
     "name": "Klastex",
+    "id": 12,
     "games": 29,
     "losses": 13,
     "wins": 16,
@@ -122,6 +134,7 @@
   {
     "avatar": "https://cdn.discordapp.com/avatars/688362404026908701/23bbffad9b993fb59c28053698f14df4.png?size=4096",
     "name": "Sori",
+    "id": 13,
     "games": 22,
     "losses": 10,
     "wins": 12,
@@ -132,6 +145,7 @@
   {
     "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
     "name": "SrFran",
+    "id": 14,
     "games": 3,
     "losses": 2,
     "wins": 1,
@@ -142,6 +156,7 @@
   {
     "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
     "name": "Toelf",
+    "id": 15,
     "games": 13,
     "losses": 8,
     "wins": 5,
@@ -152,6 +167,7 @@
   {
     "avatar": "https://cdn.discordapp.com/avatars/469520810542104587/6ebae09e9afe1481ef3df5f4070c251a.png?size=4096",
     "name": "Joan",
+    "id": 16,
     "games": 30,
     "losses": 18,
     "wins": 12,
@@ -162,6 +178,7 @@
   {
     "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
     "name": "Hajime",
+    "id": 17,
     "games": 8,
     "losses": 6,
     "wins": 2,
@@ -172,6 +189,7 @@
   {
     "avatar": "https://st.depositphotos.com/2101611/3925/v/600/depositphotos_39258193-stock-illustration-anonymous-business-man-icon.jpg",
     "name": "Iker",
+    "id": 18,
     "games": 7,
     "losses": 6,
     "wins": 1,
